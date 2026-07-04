@@ -3,7 +3,7 @@ A Geometry-Aware Vision-Language Model for 3D Scene Understanding
 </h1>
 
 <p align="center">
-Jia Liu, Shuai Ding, Yiyang Wang, Zirui Jiang, Lina Wei, and Dapeng Chen<br>
+Jia Liu, Shuai Ding, Yiyang Wang, Zirui Jiang, Lina Wei, and Dapeng Chen*<br>
 Nanjing University of Information Science and Technology
 </p>
 
