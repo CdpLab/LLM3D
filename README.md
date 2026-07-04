@@ -16,6 +16,12 @@ Three-dimensional (3D) scene understanding is essential for enabling intelligent
 
 We propose a geometry-aware vision-language model for 3D scene understanding. Taking 3D point clouds and textual instructions as inputs, the proposed method adopts a two-stage training framework to achieve comprehensive modeling from scene-object perception to cross-modal semantic generation.
 
+</h1>
+<p align="center">
+  <img src="figure1.jpg" width="100%">
+</p>
+
+
 ## 🛠️ Environment Setup
 
 ### Install Dependencies
